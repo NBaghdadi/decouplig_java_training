@@ -9,8 +9,19 @@ public class HumanPlayer implements Player{
     @Override
     public long askNextGuess()
     {
-        Scanner s = new Scanner(System.in);
-        return s.nextLong();
+        do {
+            try {
+                Scanner s = new Scanner(System.in);
+                return s.nextLong();
+            }
+            catch (NumberFormatException e)
+            {
+                l.log("Not a Number");
+            }
+
+
+        }while (true);
+
     }
     @Override
     public void respond(boolean lowerOrGreater){

@@ -28,7 +28,7 @@ public class Simulation {
         long res = player.askNextGuess();
         if(res == numberToGuess)
         {
-            logger.log("Number Found");
+            logger.log("Win");
 
             return true;
         }
@@ -47,7 +47,7 @@ public class Simulation {
         return false;
     }
 
-    public void loopUntilPlayerSucceed(int max) {
+    public void loopUntilPlayerSucceed(long max) {
         //TODO implement me
         long t0 = System.currentTimeMillis();
         boolean res = nextRound();
