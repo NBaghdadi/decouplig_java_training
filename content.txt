@@ -72,3 +72,25 @@
 2021-12-02 10:08:25.057 simulation Number Found
 2021-12-02 10:08:25.057 simulation Le nombre d'iteration sans depasser les limites:  9
 2021-12-02 10:08:25.057 simulation 0 mm 0 ss 36 SSS
+2021-12-02 10:27:00.715 ComputerPlayer 500
+2021-12-02 10:27:00.731 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 10:27:00.731 ComputerPlayer 250
+2021-12-02 10:27:00.731 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 10:27:00.731 ComputerPlayer 375
+2021-12-02 10:27:00.731 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 10:27:00.731 ComputerPlayer 312
+2021-12-02 10:27:00.731 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 10:27:00.731 ComputerPlayer 343
+2021-12-02 10:27:00.731 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 10:27:00.731 ComputerPlayer 359
+2021-12-02 10:27:00.731 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 10:27:00.731 ComputerPlayer 351
+2021-12-02 10:27:00.747 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 10:27:00.747 ComputerPlayer 347
+2021-12-02 10:27:00.747 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 10:27:00.747 ComputerPlayer 349
+2021-12-02 10:27:00.747 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 10:27:00.747 ComputerPlayer 348
+2021-12-02 10:27:00.747 simulation Number Found
+2021-12-02 10:27:00.747 simulation Le nombre d'iteration sans depasser les limites:  9
+2021-12-02 10:27:00.747 simulation 0 mm 0 ss 47 SSS
