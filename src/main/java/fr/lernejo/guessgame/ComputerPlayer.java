@@ -14,7 +14,7 @@ public class ComputerPlayer implements Player{
     public long askNextGuess()
     {
         number = (max+min)/2;
-        System.out.println(number);
+        l.log(""+number);
         return number;
 
     }

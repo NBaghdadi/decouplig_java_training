@@ -1,5 +1,8 @@
 package fr.lernejo.guessgame;
 
+import fr.lernejo.logger.Logger;
+import fr.lernejo.logger.LoggerFactory;
+
 import java.security.SecureRandom;
 
 public class Launcher {
@@ -32,7 +35,7 @@ public class Launcher {
         }
         else
         {
-            System.out.println("Renseigner la methode de jeu a la console");
+            Logger l = LoggerFactory.getLogger("Renseigner la methode de jeu a la console");
         }
 
 

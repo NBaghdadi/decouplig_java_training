@@ -1,0 +1,74 @@
+2021-12-02 09:39:33.048 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 09:39:33.068 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 09:39:33.068 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 09:39:33.068 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 09:39:33.068 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 09:39:33.068 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 09:39:33.068 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 09:39:33.068 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 09:39:33.068 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 09:39:33.068 simulation Number Found
+2021-12-02 09:41:42.723 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 09:41:42.786 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 09:41:42.786 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 09:41:42.786 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 09:41:42.786 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 09:41:42.786 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 09:41:42.786 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 09:41:42.786 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 09:41:42.786 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 09:41:42.786 simulation Number Found
+2021-12-02 09:43:04.403 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 09:43:04.419 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 09:43:04.419 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 09:43:04.419 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 09:43:04.419 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 09:43:04.419 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 09:43:04.419 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 09:43:04.419 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 09:43:04.419 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 09:43:04.419 simulation Number Found
+2021-12-02 10:03:50.294 ComputerPlayer 500
+2021-12-02 10:03:50.310 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 10:03:50.310 ComputerPlayer 250
+2021-12-02 10:03:50.326 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 10:03:50.326 ComputerPlayer 375
+2021-12-02 10:03:50.326 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 10:03:50.326 ComputerPlayer 312
+2021-12-02 10:03:50.326 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 10:03:50.326 ComputerPlayer 343
+2021-12-02 10:03:50.326 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 10:03:50.326 ComputerPlayer 359
+2021-12-02 10:03:50.326 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 10:03:50.326 ComputerPlayer 351
+2021-12-02 10:03:50.326 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 10:03:50.326 ComputerPlayer 347
+2021-12-02 10:03:50.326 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 10:03:50.326 ComputerPlayer 349
+2021-12-02 10:03:50.332 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 10:03:50.332 ComputerPlayer 348
+2021-12-02 10:03:50.332 simulation Number Found
+2021-12-02 10:03:50.332 simulation Le nombre d'iteration sans depasser les limites:  9
+2021-12-02 10:03:50.332 simulation 0 mm 0 ss 69 SSS
+2021-12-02 10:08:25.031 ComputerPlayer 500
+2021-12-02 10:08:25.041 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 10:08:25.041 ComputerPlayer 250
+2021-12-02 10:08:25.041 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 10:08:25.041 ComputerPlayer 375
+2021-12-02 10:08:25.041 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 10:08:25.041 ComputerPlayer 312
+2021-12-02 10:08:25.041 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 10:08:25.041 ComputerPlayer 343
+2021-12-02 10:08:25.041 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 10:08:25.041 ComputerPlayer 359
+2021-12-02 10:08:25.041 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 10:08:25.041 ComputerPlayer 351
+2021-12-02 10:08:25.057 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 10:08:25.057 ComputerPlayer 347
+2021-12-02 10:08:25.057 ComputerPlayer Le nombre à deviner est plus Grand
+2021-12-02 10:08:25.057 ComputerPlayer 349
+2021-12-02 10:08:25.057 ComputerPlayer Le nombre à deviner est plus Petit
+2021-12-02 10:08:25.057 ComputerPlayer 348
+2021-12-02 10:08:25.057 simulation Number Found
+2021-12-02 10:08:25.057 simulation Le nombre d'iteration sans depasser les limites:  9
+2021-12-02 10:08:25.057 simulation 0 mm 0 ss 36 SSS

@@ -58,15 +58,15 @@ public class Simulation {
         }
         if(loop_number <max)
         {
-            System.out.println("Le nombre d'iteration sans depasser les limites:  "+ loop_number);
+            logger.log("Le nombre d'iteration sans depasser les limites:  "+ loop_number);
         }
         else{
-            System.out.println("Limites depassées ");
+            logger.log("Limites depassées ");
         }
         long t1 = System.currentTimeMillis();
         long mm = ((t1-t0)/600000);
         long ss = ((t1-t0)/1000);
-        System.out.println(mm+" mm "+ss+" ss "+((t1-t0)-(ss*1000)-(mm*600000))+" SSS");
+        logger.log(mm+" mm "+ss+" ss "+((t1-t0)-(ss*1000)-(mm*600000))+" SSS");
 
     }
 }
